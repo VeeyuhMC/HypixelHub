@@ -1,0 +1,26 @@
+name: HypixelHub
+main: com.gmail.redraskaldoesgaming.HypixelHub.HypixelHub
+version: 1.1
+author: redraskal
+depend: [BarAPI]
+
+commands:
+  welcome:
+    description: Shows the welcome message!
+  firework:
+    description: Shoots a firework up at every player
+  fw:
+    description: Shoots a firework up at every player
+  vip:
+    description: Shows the vip inventory to the player
+
+permissions:
+  hypixelhub.player.welcome:
+  description: Allows you to use the welcome command.
+  default: true
+  hypixelhub.vip.firework:
+  description: Allows you to use the firework command
+  default: op
+  hypixelhub.vip.inventory:
+  description: Allows you to use the vip inventory command
+  default: op

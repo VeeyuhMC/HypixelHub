@@ -1,0 +1,30 @@
+# HypixelHub plugin config file
+# Made by RedraskalDoesGaming
+# Youtube: http://www.youtube.com/user/redraskaldoesgaming
+# Twitter: http://www.twitter.com/redraskalmc
+# Website: http://www.redraskaldoesgaming.webs.com
+
+# Login Enderdragon bar config
+# (BarMessage can only be up to 60 characters long, if it is longer it will not work)
+# If their isn't a message, it wont show the bar
+BarMessage: Enter Text Here
+BarColor: BLUE
+
+# Bar Color list:
+# AQUA
+# BLACK
+# BLUE
+# FUCHSIA
+# GRAY
+# GREEN
+# LIME
+# MAROON
+# NAVY
+# OLIVE
+# ORANGE
+# PURPLE
+# RED
+# SILVER
+# TEAL
+# WHITE
+# Yellow
